@@ -1,9 +1,7 @@
 # March Madness XGBoost Model
 
 
-### Introduction
-
-***
+## Introduction
 
 March Madness is one of the most popular sporting spectacles in the world, drawing in millions of viewers and generating some of the greatest stories in sports. Upsets are commonplace in March, and while favorites tend to do well, **nobody** knows when the next underdog might break out and beat the 1-seed.
 
@@ -12,9 +10,7 @@ Or do they? Every year, as March approaches, so too does a huge uptick in bettin
 To do so, I created a model to predict teams' scores using XGBoost and historical data ranging from 2003-2023. Given these scores, the model is able to select the team that is predicted to progress and eventually win the whole tournament.
 
 
-### Research and Data
-
-***
+## Research and Data
 
 I've done research on March Madness before; specifically, my friend and I researched the probability of upsets in the NCAA Men's Basketball Tournament, and we presented our research at UNC and at Carnegie Mellon. For that research, we independently collected several statistics online and put them together, and created a logistic regression model that could predict the winner for each game in the tournament (0 represented a win for the "better" seed and 1 represented a win for the "worse seed", or the underdog).
 
