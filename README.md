@@ -17,3 +17,16 @@ I've done research on March Madness before; specifically, my friend and I resear
 With this approach in mind, I wanted to consider a different approach for this new model. Instead of predicting the outcome of the game as a win or a loss, I wanted to predict the score for each game (especially as this would also help me assess how close the model expected games to be). As for the data, I utilized a dataset containing historical data of NCAA men's basketball games ranging as far back as 1985 (although I only analyzed games from 2003 and later). The dataset was made publicly available by Kaggle and much of the actual historical data was provided by Kenneth Massey, so credit goes out to both Kaggle and Kenneth Massey for this data.
 
 For this model, I decided to use regular season data to predict scores in each tournament game. In the future, I plan to use data from the actual tournaments as well, along with ratings provided by both Massey and other sources.
+
+
+## Notable Predictions
+
+Here's some of the games that the model predicted correctly (as of 3/28):
+
+* GCU (12) vs. St. Mary's (5) :white_check_mark:
+* Oakland (14) vs. Kentucky (3) :white_check_mark:
+* NC State (11) vs. Texas Tech (6) :white_check_mark:
+* James Madison (12) vs. Wisconsin (5) :white_check_mark:
+* Michigan State (9) vs. Mississippi State (8) :white_check_mark:
+
+**Current Overall Accuracy Rate: 68.75%**
