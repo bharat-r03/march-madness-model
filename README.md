@@ -29,4 +29,4 @@ Here's some of the games that the model predicted correctly (as of 3/28):
 * James Madison (12) vs. Wisconsin (5) :white_check_mark:
 * Michigan State (9) vs. Mississippi State (8) :white_check_mark:
 
-**Current Overall Accuracy Rate: 68.75%**
+**Current Overall Accuracy Rate: 58.33%**
