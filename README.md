@@ -23,10 +23,10 @@ For this model, I decided to use regular season data to predict scores in each t
 
 Here's some of the games that the model predicted correctly (as of 3/28):
 
-* GCU (12) vs. St. Mary's (5) :white_check_mark:
 * Oakland (14) vs. Kentucky (3) :white_check_mark:
 * NC State (11) vs. Texas Tech (6) :white_check_mark:
 * James Madison (12) vs. Wisconsin (5) :white_check_mark:
 * Michigan State (9) vs. Mississippi State (8) :white_check_mark:
+* NC State (11) vs. Marquette (2) :white_check_mark:
 
-**Current Overall Accuracy Rate: 58.33%**
+**Current Overall Accuracy Rate: 60.32%**
