@@ -21,7 +21,7 @@ For this model, I decided to use regular season data to predict scores in each t
 
 ## Notable Predictions
 
-Here's some of the games that the model predicted correctly (as of 3/28):
+Here's some of the games that the model predicted correctly:
 
 * Oakland (14) vs. Kentucky (3) :white_check_mark:
 * NC State (11) vs. Texas Tech (6) :white_check_mark:
